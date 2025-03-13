@@ -25,7 +25,7 @@ The dataset contains 24,000,000+ rows of data detailing transaction history and 
 **Code:** [Analysis Notebook](credit-card-spending-analysis.ipynb)  
 **Original Dataset:** [cc_transactions.csv](credit-card-spending-dashboard.xlsx) , [users.csv](https://github.com/xindalok/Credit-Card-Transaction-Analysis-Spending-Insights---Python/blob/2fc721d948d24f14a85c6e9f28cb8e3a87ecafe9/datasets/users.csv)
 
-**Hard Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn) - Data Cleaning, Statistical Analysis, Data Visualization  
+**Hard Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleaning, Statistical Analysis, Data Visualization  
 
 **Results:**  
-Key spending trends across customer segments were analyzed, including **age groups, FICO scores, transaction frequency, and regional spending variations**. Insights were visualized through reports and an interactive dashboard to support strategic decision-making.  
+Key spending trends across customer segments were analyzed, including **age groups, FICO scores, transaction frequency, and regional spending variations**. Insights were visualized through reports to support strategic decision-making.  

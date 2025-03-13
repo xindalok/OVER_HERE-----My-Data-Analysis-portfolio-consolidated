@@ -2,7 +2,7 @@
 
 ## SQL 🗄️ 
 
-### Customer Behavioral Analysis (across 5 datasets)
+### 1. Customer Behavioral Analysis (across 5 datasets)
 
 **Description:** This project analyzes sales, orders, and web events data to uncover trends in transactions, seasonality, and customer behavior. Key metrics such as total sales, order volume, and channel usage were explored to support data-driven decision-making. <br>
 The dataset contains over 15,000 records across 5 key tables <br><br>
@@ -13,9 +13,19 @@ The dataset contains over 15,000 records across 5 key tables <br><br>
 
 **Results:** Insights into sales performance, customer behavior, and regional trends were extracted using SQL
 
+### 2. Lending Performance Monitoring
+
+**Description:** This project aims to evaluate lending activities by analyzing key loan metrics, including delinquency rates, non-performing loans, and customer information, to provide actionable insights and inform data-driven lending strategies. The dataset tracks loan applications, funded amounts, repayments, and interest rates to assess portfolio health and ensure sustainable growth. <br><br>  
+
+**SQL Queries:** [Calculations](https://github.com/xindalok/Bank-loans-portfolio---SQL/blob/2f09006ea41ec888905e6cdcdcb498441d73000b/SQL%20calculations.md) <br>
+**Original Dataset:** [Lending Data](#)  <br><br>
+**Hard skills:** SQL - Datetime function, Aggregations, Sub-query, Window function, CTE, CASE WHEN  <br><br>
+**Results:** Key loan performance indicators, such as delinquency rates and loan quality, were tracked and analyzed to assess portfolio health and inform decision-making.
+
+
 ## Python 🐍
 
-### Credit Card Spending Analysis  
+### 1. Credit Card Spending Analysis  
 
 **Description:**  
 This project analyzes credit card transactions and user data to identify spending patterns, regional variations, and relationships between FICO scores and transaction behaviors. <br>

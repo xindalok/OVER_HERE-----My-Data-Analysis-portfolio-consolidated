@@ -2,7 +2,7 @@
 
 ## SQL
 
-### Company Sales Data Analysis (across 5 datasets)
+### Customer Behavioral Analysis (across 5 datasets)
 
 **Description:** This project analyzes sales, orders, and web events data to uncover trends in transactions, seasonality, and customer behavior. Key metrics such as total sales, order volume, and channel usage were explored to support data-driven decision-making. <br>
 The dataset contains over 15,000 records across 5 key tables <br><br>

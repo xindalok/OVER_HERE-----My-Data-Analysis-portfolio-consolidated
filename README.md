@@ -13,9 +13,9 @@ The dataset contains over 15,000 records across 5 key tables <br><br>
 
 **Results:** Insights into sales performance, customer behavior, and regional trends were extracted using SQL
 
-### 2. Lending Performance Monitoring
+### 2. Risk Management of Loans Portfolio 
 
-**Description:** This project aims to evaluate lending activities by analyzing key loan metrics, including delinquency rates, non-performing loans, and customer information, to provide actionable insights and inform data-driven lending strategies. The dataset tracks loan applications, funded amounts, repayments, and interest rates to assess portfolio health and ensure sustainable growth. <br><br>  
+**Description:** This project aims to evaluate bank loaning activities by analyzing key loan metrics, including delinquency rates, non-performing loans, and customer information, to provide actionable insights and inform data-driven lending strategies. The dataset tracks loan applications, funded amounts, repayments, and interest rates to assess portfolio health and ensure sustainable growth. <br><br>  
 
 **SQL Queries:** [Calculations](https://github.com/xindalok/Bank-loans-portfolio---SQL/blob/2f09006ea41ec888905e6cdcdcb498441d73000b/SQL%20calculations.md) <br>
 **Original Dataset:** [financial_loan.csv](https://github.com/xindalok/Bank-loans-portfolio---SQL/blob/a6db9c86683d53044c156f55833fe2b2e5dab464/dataset/financial_loan.csv)  <br><br>

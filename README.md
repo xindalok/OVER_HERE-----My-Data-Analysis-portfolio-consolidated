@@ -22,7 +22,7 @@ This project analyzes credit card transactions and user data to identify spendin
 Key metrics such as transaction frequency, spending trends, and regional spending variations were explored to enhance customer engagement and optimize credit card strategies.  
 The dataset contains 24,000,000+ rows of data detailing transaction history and customer attributes.  
 
-**Code:** [Calculations](https://github.com/xindalok/Credit-Card-Transaction-Analysis-Spending-Insights---Python/blob/2fc721d948d24f14a85c6e9f28cb8e3a87ecafe9/Credit%20Card%20Transactions.ipynb) <br>
+**Python Code:** [Calculations](https://github.com/xindalok/Credit-Card-Transaction-Analysis-Spending-Insights---Python/blob/2fc721d948d24f14a85c6e9f28cb8e3a87ecafe9/Credit%20Card%20Transactions.ipynb) <br>
 **Original Dataset:** [cc_transactions.csv](credit-card-spending-dashboard.xlsx) , [users.csv](https://github.com/xindalok/Credit-Card-Transaction-Analysis-Spending-Insights---Python/blob/2fc721d948d24f14a85c6e9f28cb8e3a87ecafe9/datasets/users.csv)
 
 **Hard Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleaning, Statistical Analysis, Data Visualization  

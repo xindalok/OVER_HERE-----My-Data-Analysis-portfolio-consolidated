@@ -2,7 +2,7 @@
 
 ## SQL 🗄️ 
 
-### 1. Customer Behavioral Analysis (across 5 datasets)
+### 1. Customer Behavioral Analysis : (_How account-specific trends help tailor business offerings_)
 
 **Description:** This project analyzes sales, orders, and web events data to uncover trends in transactions, seasonality, and customer behavior. Key metrics such as total sales, order volume, and channel usage were explored to support data-driven decision-making. <br>
 The dataset contains over 15,000 records across 5 key tables <br><br>
@@ -13,7 +13,7 @@ The dataset contains over 15,000 records across 5 key tables <br><br>
 
 **Results:** Insights into sales performance, customer behavior, and regional trends were extracted using SQL
 
-### 2. Risk Management of Loans Portfolio 
+### 2. Risk Management of Loans Portfolio : (_How high-income borrowers can impact loan risk strategies_)
 
 **Description:** This project aims to evaluate bank loaning activities by analyzing key loan metrics, including delinquency rates, non-performing loans, and customer information, to provide actionable insights and inform data-driven lending strategies. The dataset tracks loan applications, funded amounts, repayments, and interest rates to assess portfolio health and ensure sustainable growth. <br><br>  
 
@@ -25,7 +25,7 @@ The dataset contains over 15,000 records across 5 key tables <br><br>
 
 ## Python 🐍
 
-### 1. Credit Card Spending Analysis  
+### 1. Credit Card Spending Analysis : (_Why low FICO customers may pose hidden spending risks_)
 
 **Description:**  
 This project analyzes credit card transactions and user data to identify spending patterns, regional variations, and relationships between FICO scores and transaction behaviors. <br>

@@ -28,4 +28,4 @@ The dataset contains 24,000,000+ rows of data detailing transaction history and 
 **Hard Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleaning, Statistical Analysis, Data Visualization  
 
 **Results:**  
-Key spending trends across customer segments were analyzed, including **age groups, FICO scores, transaction frequency, and regional spending variations**. Insights were visualized through reports to support strategic decision-making.  
+Key spending trends across customer segments were analyzed, including age groups, FICO scores, transaction frequency, and regional spending variations. Insights were visualized through reports to support strategic decision-making.  

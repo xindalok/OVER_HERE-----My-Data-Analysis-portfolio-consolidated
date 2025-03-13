@@ -1,6 +1,6 @@
 # Xin Da - Data Analysis portfolio
 
-## SQL
+## SQL 🗄️ 
 
 ### Customer Behavioral Analysis (across 5 datasets)
 
@@ -12,3 +12,20 @@ The dataset contains over 15,000 records across 5 key tables <br><br>
 **Hard Skills:** SQL - Joins, Aggregations, Window Functions, CTEs, Subqueries  
 
 **Results:** Insights into sales performance, customer behavior, and regional trends were extracted using SQL
+
+## Python 🐍
+
+### Credit Card Spending Analysis  
+
+**Description:**  
+This project analyzes credit card transactions and user data to identify spending patterns, regional variations, and relationships between FICO scores and transaction behaviors. <br>
+Key metrics such as transaction frequency, spending trends, and regional spending variations were explored to enhance customer engagement and optimize credit card strategies.  
+The dataset contains 24,000,000+ rows of data detailing transaction history and customer attributes.  
+
+**Code:** [Analysis Notebook](credit-card-spending-analysis.ipynb)  
+**Original Dataset:** [cc_transactions.csv](credit-card-spending-dashboard.xlsx) , [users.csv](https://github.com/xindalok/Credit-Card-Transaction-Analysis-Spending-Insights---Python/blob/2fc721d948d24f14a85c6e9f28cb8e3a87ecafe9/datasets/users.csv)
+
+**Hard Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn) - Data Cleaning, Statistical Analysis, Data Visualization  
+
+**Results:**  
+Key spending trends across customer segments were analyzed, including **age groups, FICO scores, transaction frequency, and regional spending variations**. Insights were visualized through reports and an interactive dashboard to support strategic decision-making.  

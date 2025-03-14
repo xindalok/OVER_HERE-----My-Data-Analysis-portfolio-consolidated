@@ -51,7 +51,8 @@ The dataset contains 10,000 rows of raw data detailing transaction history.  <br
 
 **Hard Skills:** Python (Pandas, NumPy), data wrangling, error handling, data validation  
 **Results:** The cleaned dataset enables reliable business analysis and strategic decision-making for pricing, sales performance, and inventory management.   This ensures a trustworthy foundation for sales analysis and strategic pricing decisions.  
-
+<br>
+<br>
 
 ## Tableau 🖥️
 

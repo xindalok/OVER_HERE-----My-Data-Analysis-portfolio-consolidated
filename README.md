@@ -30,7 +30,6 @@ The dataset contains over 15,000 records across 5 key tables <br><br>
 
 **Description:**  
 The dataset contains 24,000,000+ rows of data detailing transaction history and customer attributes.  <br>
-
 This project analyzes credit card transactions and user data to identify spending patterns, regional variations, and relationships between FICO scores and transaction behaviors. <br>
 Key metrics such as transaction frequency, spending trends, and regional spending variations were explored to enhance customer engagement and optimize credit card strategies.  <br>
 
@@ -39,3 +38,17 @@ Key metrics such as transaction frequency, spending trends, and regional spendin
 
 **Hard Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleaning, Statistical Analysis, Data Visualization  
 **Results:** Key spending trends across customer segments were analyzed, including age groups, FICO scores, transaction frequency, and regional spending variations. Insights were visualized through reports to support strategic decision-making.  
+
+### 2. Café Sales Data Cleaning  
+
+**Description:**  
+This project focuses on cleaning and standardizing café sales data using multi-step cross-referencing methods to ensure pricing accuracy and data consistency. <br>
+By leveraging on price dictionaries, the project reconciles and cross-checks missing or incorrect unit prices. Logical recalculations were applied where necessary, and ambiguous transactions were flagged or removed. 
+The dataset contains 10,000 rows of raw data detailing transaction history.  <br>
+
+**Python Code:** [Café Sales Data Cleaning](cafe-sales-data-cleaning.ipynb)  
+**Original Dataset:** [cafe_sales.csv](https://github.com/xindalok/Data-Cleaning-Cafe-Dataset-python/blob/dd159a5ee0fbc29c8b33584ecf69f58fe4e9db39/dataset/dirty_cafe_sales.csv)
+
+**Hard Skills:** Python (Pandas, NumPy), data wrangling, error handling, data validation  
+**Results:** The cleaned dataset enables reliable business analysis and strategic decision-making for pricing, sales performance, and inventory management.   This ensures a trustworthy foundation for sales analysis and strategic pricing decisions.  
+

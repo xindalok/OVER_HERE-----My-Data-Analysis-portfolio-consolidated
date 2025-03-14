@@ -39,7 +39,7 @@ Key metrics such as transaction frequency, spending trends, and regional spendin
 **Hard Skills:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleaning, Statistical Analysis, Data Visualization  
 **Results:** Key spending trends across customer segments were analyzed, including age groups, FICO scores, transaction frequency, and regional spending variations. Insights were visualized through reports to support strategic decision-making.  
 
-### 2. Café Sales Data Cleaning  
+### 2. Café Data Reconciliation  
 
 **Description:**  
 This project focuses on cleaning and standardizing café sales data using multi-step cross-referencing methods to ensure pricing accuracy and data consistency. <br>

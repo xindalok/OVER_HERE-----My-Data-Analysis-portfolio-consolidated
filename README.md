@@ -62,8 +62,8 @@ The detailed dataset offers actionable insights to optimize sales strategies and
 
 
 
-**Tableau Dashboard:** [Dashboard](https://public.tableau.com/app/profile/xinda.lok/viz/SalesCustomerDashboard_17367929548860/CustomerDashboard) 
-**Original Dataset:** [sales_customer_transactions.csv](https://github.com/xindalok/sales-customer-insights-dataset/blob/main/dataset/sales_data.csv)  
+**Tableau Dashboard:** [Dashboard](https://public.tableau.com/app/profile/xinda.lok/viz/SalesCustomerDashboard_17367929548860/CustomerDashboard) <br>
+**Original Dataset:** [Customers.csv](https://github.com/xindalok/Sales_Dashboard--Interactive_Sales_-_Customer_insights---Tableau/blob/a8850d16e0f865bc92d63e55c980eadeadc5872a/datasets/Customers.csv) , [Location.csv](https://github.com/xindalok/Sales_Dashboard--Interactive_Sales_-_Customer_insights---Tableau/blob/a8850d16e0f865bc92d63e55c980eadeadc5872a/datasets/Location.csv) , [Orders.csv](https://github.com/xindalok/Sales_Dashboard--Interactive_Sales_-_Customer_insights---Tableau/blob/a8850d16e0f865bc92d63e55c980eadeadc5872a/datasets/Orders.csv) , [Products.csv](https://github.com/xindalok/Sales_Dashboard--Interactive_Sales_-_Customer_insights---Tableau/blob/a8850d16e0f865bc92d63e55c980eadeadc5872a/datasets/Products.csv)
 
 **Hard Skills:** Python (Pandas, Matplotlib, Seaborn), interactive dashboards (Tableau/Power BI), data analysis  
 

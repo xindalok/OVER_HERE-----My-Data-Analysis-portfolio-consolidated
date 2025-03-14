@@ -52,3 +52,23 @@ The dataset contains 10,000 rows of raw data detailing transaction history.  <br
 **Hard Skills:** Python (Pandas, NumPy), data wrangling, error handling, data validation  
 **Results:** The cleaned dataset enables reliable business analysis and strategic decision-making for pricing, sales performance, and inventory management.   This ensures a trustworthy foundation for sales analysis and strategic pricing decisions.  
 
+
+## Tableau 🖥️
+
+**Description:**  
+This project uses data visualization to provide clear insights into key business metrics, supporting data-driven decision-making.
+Interactive dashboards highlight sales trends, product performance, and customer behavior, with filters for dynamic exploration.  
+The detailed dataset offers actionable insights to optimize sales strategies and customer engagement.  
+
+
+
+**Tableau Dashboard:** [Dashboard](https://public.tableau.com/app/profile/xinda.lok/viz/SalesCustomerDashboard_17367929548860/CustomerDashboard) 
+**Original Dataset:** [sales_customer_transactions.csv](https://github.com/xindalok/sales-customer-insights-dataset/blob/main/dataset/sales_data.csv)  
+
+**Hard Skills:** Python (Pandas, Matplotlib, Seaborn), interactive dashboards (Tableau/Power BI), data analysis  
+
+**Results:**  
+The Sales Dashboard provides an intuitive overview of total sales, profit, and quantity comparisons between the current and previous years, highlighting seasonal peaks and underperforming months. 
+A product subcategory analysis uncovers correlations between sales and profitability, offering deeper insights into product performance. <br>  
+The Customer Dashboard reveals customer behaviors, trends, and profitability, enabling businesses to tailor strategies for customer engagement and retention.
+These insights empower data-driven decisions to enhance sales strategies and customer experiences.  

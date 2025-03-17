@@ -56,6 +56,8 @@ The dataset contains 10,000 rows of raw data detailing transaction history.  <br
 
 ## Tableau 🖥️
 
+### 1. Sales and Customers Dashboard : (_Overview of Business analytics_)
+
 **Description:**  
 This project uses data visualization to provide clear insights into key business metrics, supporting data-driven decision-making.
 Interactive dashboards highlight sales trends, product performance, and customer behavior, with filters for dynamic exploration.  

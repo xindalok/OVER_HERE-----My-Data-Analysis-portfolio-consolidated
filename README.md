@@ -46,8 +46,8 @@ This project focuses on cleaning and standardizing café sales data using multi-
 By leveraging on price dictionaries, the project reconciles and cross-checks missing or incorrect unit prices. Logical recalculations were applied where necessary, and ambiguous transactions were flagged or removed. 
 The dataset contains 10,000 rows of raw data detailing transaction history.  <br>
 
-**Python Code:** [Café Sales Data Cleaning](cafe-sales-data-cleaning.ipynb)  
-**Original Dataset:** [cafe_sales.csv](https://github.com/xindalok/Data-Reconciliation-Cafe-Dataset-python/blob/main/Data%20cleaning%20cafe.ipynb)
+**Python Code:** [Café Sales Data Cleaning](https://github.com/xindalok/Data-Reconciliation-Cafe-Dataset-python/blob/dd159a5ee0fbc29c8b33584ecf69f58fe4e9db39/Data%20cleaning%20cafe.ipynb)
+**Original Dataset:** [cafe_sales.csv](https://github.com/xindalok/Data-Reconciliation-Cafe-Dataset-python/tree/dd159a5ee0fbc29c8b33584ecf69f58fe4e9db39/dataset)
 
 **Hard Skills:** Python (Pandas, NumPy), data wrangling, error handling, data validation  
 **Results:** The cleaned dataset enables reliable business analysis and strategic decision-making for pricing, sales performance, and inventory management.   This ensures a trustworthy foundation for sales analysis and strategic pricing decisions.  

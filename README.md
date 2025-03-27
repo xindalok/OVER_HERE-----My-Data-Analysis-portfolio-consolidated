@@ -47,7 +47,7 @@ By leveraging on price dictionaries, the project reconciles and cross-checks mis
 The dataset contains 10,000 rows of raw data detailing transaction history.  <br>
 
 **Python Code:** [Café Sales Data Cleaning](cafe-sales-data-cleaning.ipynb)  
-**Original Dataset:** [cafe_sales.csv](https://github.com/xindalok/Data-Cleaning-Cafe-Dataset-python/blob/dd159a5ee0fbc29c8b33584ecf69f58fe4e9db39/dataset/dirty_cafe_sales.csv)
+**Original Dataset:** [cafe_sales.csv](https://github.com/xindalok/Data-Reconciliation-Cafe-Dataset-python/blob/dd159a5ee0fbc29c8b33584ecf69f58fe4e9db39/Data%20cleaning%20cafe.ipynb)
 
 **Hard Skills:** Python (Pandas, NumPy), data wrangling, error handling, data validation  
 **Results:** The cleaned dataset enables reliable business analysis and strategic decision-making for pricing, sales performance, and inventory management.   This ensures a trustworthy foundation for sales analysis and strategic pricing decisions.  
